@@ -56,6 +56,7 @@ var arable_land_germany = [49.67917502148379,
  47.9592041483809];
 
 var country_name_germany = 'Germany';
+
 var trace2 = { 
   x: year,
   y: arable_land_germany,
@@ -63,7 +64,6 @@ var trace2 = {
   type: 'scatter',
   name: country_name_germany
 };
-
 
 var arable_land_India = [55.6902039146848,
  55.6944173715386,
@@ -86,7 +86,9 @@ var arable_land_India = [55.6902039146848,
  54.8084187711588,
  54.8084187711588,
  56.2229587724434];
+
 var country_name_India = 'India';
+
 var trace3 = {
   x: year,
   y: arable_land_India,
