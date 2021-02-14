@@ -9,13 +9,15 @@
 
 The objective of this project is to build a front end for a web application using data from World Bank. The libraries used for this project are Plotly (for visualization) and Bootstrap (for styling).
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="files"></a>
 
 * Index.html: html file to render the web page
-* javascript_files: Includes all package files
+
+* javascript_files
     * `plot1.js` : Javascript to generate Plot1
     * `plot2.js` : Javascript to generate Plot2
-* Visualizations: Includes all package files
+    
+* Visualizations
     * `Plot1.png` : Percentage of Land Used for Agriculture - 1990 to 2015
     * `Plot2.png` : Percentage of Land Used for Agriculture In 2015
     
