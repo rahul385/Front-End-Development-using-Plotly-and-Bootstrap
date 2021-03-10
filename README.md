@@ -23,7 +23,7 @@ The objective of this project is to build a front end for a web application usin
     
 ## Screenshots <a name="image"></a>
 
-***Screenshot 1: Percentage of Land Used for Agriculture - 1990 to 2015***
+***Screenshot 1: Percentage of Land Used for Agriculture -1990 to 2015***
 
 ![Screenshot 1](https://github.com/rahul385/Front-End-Development-using-Plotly-and-Bootstrap/blob/master/Visualizations/Plot1.png)
 
